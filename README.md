@@ -1,7 +1,7 @@
 # SepsisPredictor-ML
 
 ## Description
-This project focuses on the development of a machine learning model for early detection and classification of sepsis from patient data. Utilizing advanced data analysis techniques and machine learning models, we aim to provide a tool that enhances healthcare providers' decision-making processes.
+In the realm of healthcare, timely and accurate diagnosis is critical. My project, SepsisPredictor-ML, leverages machine learning to develop a model that aids in the detection and classification of sepsis from patient data. This tool is designed to enhance decision-making processes for healthcare providers, making it a valuable asset in medical settings.
 
 [Link to the detailed article about this project](https://medium.com/@feisalhassan77/revolutionizing-early-sepsis-detection-a-journey-from-data-to-diagnosis-with-machine-learning-and-52b8c07bea0d)
 
