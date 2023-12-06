@@ -30,10 +30,9 @@ To set up this project locally, follow these steps:
 `uvicorn main:app --reload`
 
 ## Screenshots
-Include screenshots of your app here.
 
-![Screenshot 1](<screenshot-link>)
-![Screenshot 2](<screenshot-link>)
+![Screenshot](https://github.com/Feiiiisal/SepsisPredictor-ML/blob/main/Images/Api%20Interface.png)
+
 
 ## Deployed Application
 Access the app from docker hub: [Deployed App Link](https://hub.docker.com/r/feiiisal/sepsis_app)
