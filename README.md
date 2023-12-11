@@ -35,7 +35,7 @@ To set up this project locally, follow these steps:
 
 
 ## Deployed Application
-Access the app from docker hub: [Deployed App Link](https://hub.docker.com/r/feiiisal/sepsis_app)
+Access the app from docker hub: [Deployed App Link](https://hub.docker.com/repository/docker/feiiisal/sepsis_app2/general)
 
 Clone it using:
   `docker pull feiiisal/sepsis_app`
